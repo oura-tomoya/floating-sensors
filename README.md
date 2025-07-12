@@ -8,7 +8,7 @@ For more details, please refer to the reference below.
 - T. Oura, R. Miura and K. Fukagata, "Machine-learning based flow field estimation using floating sensor locations," preprint, [arXiv:2311.08754](https://doi.org/10.48550/arXiv.2311.08754) (2025).
 
 ## Information
-The estimation for the two-dimensional forced homogeneous isotropic turbulence (HIT) at $Re_{\lambda} \simeq 272$ is performed in `train_and_evaluate.ipynb`, which include both model training and model evaluation.
+The estimation for the two-dimensional forced homogeneous isotropic turbulence (HIT) at $Re_{\lambda} \simeq 272$ is performed in `train_and_evaluate.ipynb`, which include the sample codes of both model training and model evaluation.
 `data` directory contains
 - `sensor_locations_at_n.npy`
     - Training dataset. Locations of 512 sensors for 2500 time-steps.
